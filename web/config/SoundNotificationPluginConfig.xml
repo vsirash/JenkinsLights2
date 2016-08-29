@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<soundNotificationPluginConfig>
+	<repeatsCount>1</repeatsCount>
+	<failureFileName>fail.wav</failureFileName>
+	<successFileName>succ.wav</successFileName>
+	<warningFileName>warn.wav</warningFileName>
+</soundNotificationPluginConfig>
